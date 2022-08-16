@@ -8,7 +8,7 @@
 
 建立 RESTful Web Service 專案，在 pom.xml 加入 H2 Database 和 Spring Data JPA 的 dependency。
 
-使用 Spring Boot RestController 及多種 Annotation，再到Postman操作專案，並連線至H2查看資料。
+執行後到 Postman 操作專案，並連線至 H2 查看資料。
 
 <!-- GETTING STARTED -->
 ## Getting Started
