@@ -15,7 +15,7 @@
 
 1.將此專案下載或clone後，在 IDE 打開 pom.xml。
 
-2.開啟 Postman，import HW2-restful-santa.postman_collection.json
+2.開啟 Postman，import HW3-1_H2_JPA.postman_collection.json
 
 3.回到 IDE ，執行src/main/java/com.example.HW3_1 內的 Hw31Application
 
