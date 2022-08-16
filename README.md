@@ -58,6 +58,8 @@ Order
 ## 之後可能改善的
 1. 有看到 github 上很多 project 內的 primary key 以 LONG 宣告，可以增加往後資料量</br>https://stackoverflow.com/questions/24857449/should-i-use-an-int-or-a-long-for-the-primary-key-in-an-entity-framework-model
 2. 以下連結建議用 Set 而不是 List </br> https://vladmihalcea.com/the-best-way-to-use-the-manytomany-annotation-with-jpa-and-hibernate/
+3. 將 Meal 加入 Order 內的 mealList後，再直接刪除該meal，會產生Exception，待解決 </br>
+JdbcSQLIntegrityConstraintViolationException: Referential integrity constraint violation
 
 <p align="right">(<a href="#huai's readme-top">back to top</a>)</p>
 
